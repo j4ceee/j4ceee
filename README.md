@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+🌈Welcome to this ✨ _special_ ✨ read me🏳️‍🌈
+
+_I don't have anything to share right now✨_
+
+I'm working on some not so public projects.
 
 <!--
 **j4ceee/j4ceee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
