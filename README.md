@@ -2,8 +2,8 @@
 
 🌈Welcome to this ✨ _special_ ✨ read me🏳️‍🌈
 
-_I don't have anything to share right now✨_
 
+_I don't have anything to share right now✨_
 I'm working on some not so public projects.
 
 <!--
