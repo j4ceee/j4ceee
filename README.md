@@ -1,11 +1,9 @@
 ### Hello there 👋
 
-Welcome to this ✨ _special_ ✨ README
-<br>
+Welcome to this ✨ README ✨, not much to see here
 <br>
 
-_I don't have anything to share right now🌈_ <br>
-I'm working on some not so public projects.
+_Have a nice day❤️_
 
 <!--
 **j4ceee/j4ceee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
